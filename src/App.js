@@ -118,7 +118,7 @@ function App() {
                   <Route path=":id" element={<PostPage post={posts} handleDelet={handleDelet}/>}/>
              </Route>     
              <Route path="about" element={<About/>}/>
-             <Route path="*"  element={<Misssing/>}/>
+             <Route path="*"  element={<Home post={searchResult}/>}/>
         </Routes>
         <Footer/>
     </div>
