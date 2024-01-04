@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/socialSphere/static/css/main.1d94d0bf.css",
-    "main.js": "/socialSphere/static/js/main.21f15d14.js",
+    "main.js": "/socialSphere/static/js/main.01c0ed5b.js",
     "index.html": "/socialSphere/index.html",
     "main.1d94d0bf.css.map": "/socialSphere/static/css/main.1d94d0bf.css.map",
-    "main.21f15d14.js.map": "/socialSphere/static/js/main.21f15d14.js.map"
+    "main.01c0ed5b.js.map": "/socialSphere/static/js/main.01c0ed5b.js.map"
   },
   "entrypoints": [
     "static/css/main.1d94d0bf.css",
-    "static/js/main.21f15d14.js"
+    "static/js/main.01c0ed5b.js"
   ]
 }
