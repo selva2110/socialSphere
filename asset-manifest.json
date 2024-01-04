@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/selva2110/socialSphere/static/css/main.1d94d0bf.css",
+    "main.js": "/selva2110/socialSphere/static/js/main.21f15d14.js",
+    "index.html": "/selva2110/socialSphere/index.html",
+    "main.1d94d0bf.css.map": "/selva2110/socialSphere/static/css/main.1d94d0bf.css.map",
+    "main.21f15d14.js.map": "/selva2110/socialSphere/static/js/main.21f15d14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d94d0bf.css",
+    "static/js/main.21f15d14.js"
+  ]
+}
